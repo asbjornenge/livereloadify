@@ -9,4 +9,3 @@ Livereloadify takes a folder slaps livereload on top.
 ## Use
 
     livereloadify ./dist
-

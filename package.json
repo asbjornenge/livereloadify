@@ -1,0 +1,17 @@
+{
+  "name": "livereloadify",
+  "version": "1.0.0",
+  "description": "Livereloadify takes a folder slaps livereload on top.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^0.5.1",
+    "gaze": "^0.5.1",
+    "minimist": "^1.1.0",
+    "tiny-lr-fork": "0.0.5"
+  }
+}

@@ -1,6 +1,6 @@
 # Livereloadify
 
-Livereloadify will start a livereload server and emit changes to files for a given folder.
+Livereloadify will start a livereload server and emit changes to files in a given folder.
 
 Combined with some other great tools like [watchify]() and [node-static]() it can create a efficient development environment without the need for a task runner besides npm.
 

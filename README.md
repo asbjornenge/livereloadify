@@ -2,7 +2,7 @@
 
 Livereloadify will start a livereload server and emit changes to files in a given folder.
 
-Combined with some other great tools like [watchify]() and [node-static]() it can create a efficient development environment without the need for a task runner besides npm.
+Combined with some other great tools like [watchify](https://github.com/substack/watchify) and [node-static](https://github.com/cloudhead/node-static) it can create an efficient development environment, without the need for a task runner besides [npm](https://www.npmjs.org/).
 
 Example npm scripts section:
 

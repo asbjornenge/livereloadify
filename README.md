@@ -6,6 +6,10 @@ Livereloadify takes a folder slaps livereload on top.
 
     npm install -g livereloadify
 
-## Use
+## CLI
 
     livereloadify ./dist
+
+## API
+
+	Docs coming...

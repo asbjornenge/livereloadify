@@ -1,6 +1,6 @@
 {
   "name": "livereloadify",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Livereloadify takes a folder slaps livereload on top.",
   "main": "index.js",
   "bin" : "./cli.js",

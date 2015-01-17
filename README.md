@@ -24,10 +24,21 @@ Example npm scripts section:
 ## CLI Options
 
 	--lrport    // Livereload port    (default 35729)
+    --glob      // Glob pattern       (default *.*)
 
 ## API
 
 	var lify = require('livereloadify')
-	lify(<folder>,<port>).start()
+	lify(<folder>,<glob>,<port>).start()
+
+## Changelog
+
+### 2.0.0
+
+* Added glob pattern as parameter
+
+### 1.0.0
+
+* Initial release :tada:
 
 enjoy
